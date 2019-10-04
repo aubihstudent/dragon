@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Threat Modelling",
+    "owner": "Senko Jukić",
+    "description": "High level system description."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diagram 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Sabina Baraković"
+  }
+}
