@@ -1355,7 +1355,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 25",
+                      "text": "HTTPS",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1364,6 +1364,9 @@
               ],
               "z": 26,
               "hasOpenThreats": false,
+              "protocol": "HTTPS",
+              "isEncrypted": true,
+              "isPublicNetwork": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
@@ -1439,7 +1442,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 27",
+                      "text": "HTTPS",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1448,6 +1451,9 @@
               ],
               "z": 28,
               "hasOpenThreats": false,
+              "protocol": "HTTPS",
+              "isEncrypted": true,
+              "isPublicNetwork": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
